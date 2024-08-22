@@ -1,0 +1,10 @@
+.body {
+    background-color: rgb(136, 63, 3);
+    color: white;
+  }
+.container {
+    align-content: center;
+    background-color: teal;
+    color: white;
+    text-align: center;
+  }
